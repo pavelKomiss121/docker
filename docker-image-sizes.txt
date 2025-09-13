@@ -1,0 +1,5 @@
+postgres         15-alpine   dfcf04591850   4 days ago      399MB
+ubuntu           latest      9cbed7541129   3 weeks ago     117MB
+hello-world      latest      54e66cc1dd1f   5 weeks ago     20.3kB
+alpine           latest      4bcff63911fc   2 months ago    12.8MB
+busybox          latest      ab33eacc8251   11 months ago   6.78MB
